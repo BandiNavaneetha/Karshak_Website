@@ -17,15 +17,16 @@ Contributing
 Contact
 Installation
 Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 Python (version 3.11 or later)
 pip (Python package installer)
 Virtualenv (optional but recommended)
+
 Steps
 Clone the repository:
-
-git clone https://github.com/BandiNavaneetha/Django-rest-api.git
+git clone (https://github.com/BandiNavaneetha/Karshak_Website)
 Installations: Install all the libraries required specially Django using pip.
 
 
